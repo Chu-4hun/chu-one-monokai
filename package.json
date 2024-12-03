@@ -3,7 +3,7 @@
   "displayName": "Chu One Monokai Theme",
   "description": "merged mono and one dark",
   "publisher": "Chu-4hun",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.13.0"
   },
