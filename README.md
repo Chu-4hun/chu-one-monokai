@@ -15,7 +15,3 @@ Screenshot of Rust and JavaScript
 
 ![Theme Screenshot](screenshot-1.png)
 ![Theme Screenshot](screenshot-2.png)
-
-
-## Change log
-You can take a look at the change log [here](https://github.com/azemoh/vscode-one-monokai/blob/master/CHANGELOG.md)
