@@ -4,7 +4,7 @@
   "description": "merged mono and one dark",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.13.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +17,21 @@
         "path": "./themes/Chu Mono-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/Chu-4hun/chu-one-monokai"
+    },
+    "bugs": {
+        "url": "https://github.com/Chu-4hun/chu-one-monokai/issues"
+    },
+    "homepage": "https://github.com/Chu-4hun/chu-one-monokai/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Onedark",
+        "Monokai"
+    ],
+    "license": "MIT"
 }
+
