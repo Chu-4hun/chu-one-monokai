@@ -13,7 +13,8 @@ ext install chu-one-monokai
 ## Screenshot
 Screenshot of Ruby and JavaScript
 
-![Theme Screenshot](screenshot-v0.2.0.png)
+![Theme Screenshot](screenshot-1.png)
+![Theme Screenshot](screenshot-2.png)
 
 
 ## Change log
