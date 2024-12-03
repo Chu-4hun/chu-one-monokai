@@ -7,11 +7,11 @@ Slightly changed [One Monokai theme](https://github.com/azemoh/vscode-one-monoka
 
 press `ctl/command + p` to launch quick open then run
 ```
-ext install chu-one-monokai
+ext install Chu-4hun.chu-one-monokai
 ```
 
 ## Screenshot
-Screenshot of Ruby and JavaScript
+Screenshot of Rust and JavaScript
 
 ![Theme Screenshot](screenshot-1.png)
 ![Theme Screenshot](screenshot-2.png)
