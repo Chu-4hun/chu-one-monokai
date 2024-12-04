@@ -3,7 +3,7 @@
   "displayName": "Chu One Monokai Theme",
   "description": "merged mono and one dark",
   "publisher": "Chu-4hun",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.13.0"
   },
@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Chu Mono",
+        "label": "Chu One Mono",
         "uiTheme": "vs-dark",
-        "path": "./themes/Chu Mono-color-theme.json"
+        "path": "./themes/Chu One Mono-color-theme.json"
+      },
+      {
+        "label": "Chu One Mono Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chu One Mono Darker-color-theme.json"
       }
     ]
   },
@@ -31,7 +36,8 @@
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Dark"
     ],
     "license": "MIT"
 }

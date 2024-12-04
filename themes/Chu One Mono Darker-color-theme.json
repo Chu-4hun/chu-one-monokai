@@ -3,7 +3,7 @@
 	"name": "Chu OneMono",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#21252b",
+		"activityBar.background": "#1a1e23",
 		"activityBar.foreground": "#d7dae0",
 		"activityBarBadge.background": "#528bff",
 		"activityBarBadge.foreground": "#f8fafd",
@@ -12,7 +12,7 @@
 		"diffEditor.insertedTextBackground": "#00809b33",
 		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181a1f",
-		"editor.background": "#282c34",
+		"editor.background": "#20232a",
 		"editor.findMatchBackground": "#42557b",
 		"editor.findMatchHighlightBackground": "#3143654b",
 		"editor.lineHighlightBackground": "#383e4a",
@@ -21,7 +21,7 @@
 		"editorError.foreground": "#c24038",
 		"editorGroup.border": "#181a1f",
 		"editorGroup.emptyBackground": "#181a1f",
-		"editorGroupHeader.tabsBackground": "#21252b",
+		"editorGroupHeader.tabsBackground": "#171b1f",
 		"editorHoverWidget.background": "#21252b",
 		"editorHoverWidget.border": "#181a1f",
 		"editorIndentGuide.background1": "#3b4048",
@@ -47,16 +47,16 @@
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"scrollbarSlider.background": "#4e566680",
 		"scrollbarSlider.hoverBackground": "#5a637580",
-		"sideBar.background": "#21252b",
+		"sideBar.background": "#1a1e23",
 		"sideBarSectionHeader.background": "#282c34",
-		"statusBar.background": "#21252b",
+		"statusBar.background": "#1b1e23",
 		"statusBar.debuggingBackground": "#21252b",
 		"statusBar.foreground": "#9da5b4",
 		"statusBar.noFolderBackground": "#21252b",
 		"statusBarItem.hoverBackground": "#2c313a",
-		"tab.activeBackground": "#383e4a",
-		"tab.border": "#181a1f",
-		"tab.inactiveBackground": "#21252b",
+		"tab.activeBackground": "#2d313b",
+		"tab.border": "#121317",
+		"tab.inactiveBackground": "#171b1f",
 		"terminal.ansiBlack": "#2d3139",
 		"terminal.ansiBlue": "#528bff",
 		"terminal.ansiBrightBlack": "#7f848e",
@@ -74,9 +74,9 @@
 		"terminal.ansiWhite": "#d7dae0",
 		"terminal.ansiYellow": "#e5c07b",
 		"terminal.foreground": "#abb2bf",
-		"titleBar.activeBackground": "#282c34",
+		"titleBar.activeBackground": "#20232c",
 		"titleBar.activeForeground": "#9da5b4",
-		"titleBar.inactiveBackground": "#282c34",
+		"titleBar.inactiveBackground": "#1a1e23",
 		"titleBar.inactiveForeground": "#6b717d",
 	},
 	"tokenColors": [
@@ -401,15 +401,13 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#F8F8F0",
-				"background": "#C678DD"
+				"foreground": "#F8F8F0"
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#F8F8F0",
-				"background": "#56B6C2"
+				"foreground": "#F8F8F0"
 			}
 		},
 		{
