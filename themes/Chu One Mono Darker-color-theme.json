@@ -184,6 +184,7 @@
 				"entity.name.class",
 				"entity.name.module",
 				"entity.name.type",
+				"meta.function.call",
 				"storage.identifier",
 				"support.class"
 			],
