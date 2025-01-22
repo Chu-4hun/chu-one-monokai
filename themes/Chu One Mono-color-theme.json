@@ -184,6 +184,7 @@
 				"entity.name.class",
 				"entity.name.module",
 				"entity.name.type",
+				"entity.name.namespace",
 				"meta.function.call",
 				"storage.identifier",
 				"support.class"
@@ -533,10 +534,20 @@
 			}
 		},
 		{
-			"scope": "variable.other",
+			"scope": [
+				"variable.other",
+			],
 			"settings": {
 				"foreground": "#FFFFFFE1",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.function.call"
+			],
+			"settings": {
+				"foreground": "#BBBBBB",
 			}
 		},
 		{

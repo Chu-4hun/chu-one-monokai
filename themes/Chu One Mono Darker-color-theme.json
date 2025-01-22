@@ -168,7 +168,9 @@
 			}
 		},
 		{
-			"scope": "storage",
+			"scope": [
+				"storage"
+			],
 			"settings": {
 				"foreground": "#E06C75"
 			}
@@ -183,8 +185,8 @@
 			"scope": [
 				"entity.name.class",
 				"entity.name.module",
+				"entity.name.namespace",
 				"entity.name.type",
-				"meta.function.call",
 				"storage.identifier",
 				"support.class"
 			],
@@ -533,10 +535,20 @@
 			}
 		},
 		{
-			"scope": "variable.other",
+			"scope": [
+				"variable.other",
+			],
 			"settings": {
 				"foreground": "#FFFFFFE1",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.function.call"
+			],
+			"settings": {
+				"foreground": "#BBBBBB",
 			}
 		},
 		{
